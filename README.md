@@ -6,22 +6,17 @@ Welcome to my GitHub profile! I'm Dennis, a computer science student passionate 
 
 ## About Me
 
-- 🌱 I’m currently learning [Current Learning Focus].
-- 💬 Ask me about [Your Expertise or Interests].
-- 📫 How to reach me: [Your Contact Information].
+A **passionate devoloper** always looking for new opportunities, i'm currently studying IT and telecomunication, but i'm_ ** open to recieve projects**_ to work with.
+My main **focus area is in Cybersecurity** but i always try to learn new skills.
 
 ## Projects Highlights
 
 Here are a few highlights from my GitHub repositories:
 
-- [Project 1 Name](Link to Project 1)
+- [My Web devolopment portfolio](https://github.com/xaxoman/Web-Devolopment-Portfolio)
   - Brief description of Project 1.
 
-- [Project 2 Name](Link to Project 2)
-  - Brief description of Project 2.
 
-- [Project 3 Name](Link to Project 3)
-  - Brief description of Project 3.
 
 Feel free to explore these projects and more in my repositories!
 
@@ -29,9 +24,7 @@ Feel free to explore these projects and more in my repositories!
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Personal Website/Blog](Your Website/Blog Link)
+
 
 Looking forward to sharing and learning together. 🚀
 
