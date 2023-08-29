@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Dennis, a computer science student passionate 
 
 ## About Me
 
-A **passionate devoloper** always looking for new opportunities, i'm currently studying IT and telecomunication, but i'm  ** open to recieve projects** to work with.
+A **passionate devoloper** always looking for new opportunities, i'm currently studying IT and telecomunication, but i'm  **open to recieve projects** to work with.
 My main **focus area is in Cybersecurity** but i always try to learn new skills.
 
 ## Projects Highlights
