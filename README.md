@@ -1,6 +1,6 @@
-# Hello, World! 👋
+# Hello, World! 💻 
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Role/Title] passionate about [Your Interests]. Here, you'll find a collection of my projects and contributions in various domains.
+Welcome to my GitHub profile! I'm Dennis, a computer science student passionate about Cybersecurity, AI, Web devolopment and the latest tech trends. Here, you'll find a collection of my projects and contributions in various domains.
 
 [![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaxoman)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm [Your Name], a [Your Role/Title] passionate ab
 - 🌱 I’m currently learning [Current Learning Focus].
 - 💬 Ask me about [Your Expertise or Interests].
 - 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: [Your Pronouns].
 
 ## Projects Highlights
 
