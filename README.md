@@ -14,19 +14,19 @@ My main **focus area is in Cybersecurity** but i always try to learn new skills.
 Here are a few highlights from my GitHub repositories:
 
 - [My Web devolopment portfolio](https://github.com/xaxoman/Web-Devolopment-Portfolio)
-  - Brief description of Project 1.
+  - In this repository i share projects regarding webdev, it's divided based on the technologies and progrmming languages i learn.
 
 
 
 Feel free to explore these projects and more in my repositories!
 
-## Connect with Me
+## Connect with Me 📫
 
 Let's connect and collaborate! You can find me on:
 
 
 
-Looking forward to sharing and learning together. 🚀
+Looking forward to sharing and learning together. 👨‍💻 
 
 <!--
 Feel free to use this README template for your own GitHub profile.
