@@ -13,7 +13,7 @@ My main **focus area is in Cybersecurity** but i always try to learn new skills.
 
 Here are a few highlights from my GitHub repositories:
 
-- [My Web devolopment portfolio](https://github.com/xaxoman/Web-Devolopment-Portfolio)
+- [My Web devolopment portfolio](https://github.com/xaxoman/WebDevPortfolio)
   - In this repository i share projects regarding webdev, it's divided based on the technologies and progrmming languages i learn.
 
 
