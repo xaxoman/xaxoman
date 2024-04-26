@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hello, I’m Denis.<br><br>
-# About me<br>Denis Xhafaj, is a versatile developer based in Italy,  passionate about leveraging technology and his unique experiences to make a meaningful difference in people's lives.<br><br>
-# Podcast & Blog<br>In my free time i write articles on my personal blog where i share useful material and experiences for free.<br>I also host a podcast called "The Online Jungle", where i explore the wild world of technology, finance, and self-development. <br><br>If you're interested Join us as we navigate through the dense undergrowth of the digital world, and help you find your way to success and growth.<br><br>
+Hello, I’m Denis.<br><br># About me<br>Denis Xhafaj, is a versatile developer based in Italy,  passionate about leveraging technology and his unique experiences to make a meaningful difference in people's lives.<br><br># Podcast & Blog<br>In my free time i write articles on my personal blog where i share useful material and experiences for free.<br>I also host a podcast called "The Online Jungle", where i explore the wild world of technology, finance, and self-development. <br><br>If you're interested [Join us](https://albaniancoder.pages.dev/podcast) as we navigate through the dense undergrowth of the digital world, and help you find your way to success and growth.<br><br>
 
 
 ## 🌐 Socials:
