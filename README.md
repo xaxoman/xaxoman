@@ -9,7 +9,7 @@ In my free time, I write articles on my personal blog, where I share useful mate
 
 ## 💻 Tech Stack
 
-Here are some of the technologies I work with:
+Here are some of the technologies I work with: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,figma,linux,git)](https://skillicons.dev)
 
 
