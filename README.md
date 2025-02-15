@@ -10,7 +10,7 @@ In my free time, I write articles on my personal blog, where I share useful mate
 ## 💻 Tech Stack
 
 Here are some of the technologies I work with: <br> <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,figma,linux,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,figma,linux,git)](https://skillicons.dev)
 
 
 [![](https://visitcount.itsvg.in/api?id=xaxoman&icon=0&color=0)](https://visitcount.itsvg.in)
