@@ -8,25 +8,25 @@ I'm a versatile developer from Italy, passionate about leveraging technology to 
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
     <div style="width: 80px;"><strong>Frontend:</strong></div>
-    </br>
     <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Tech Stack">
+     </br>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
     <div style="width: 80px;"><strong>Backend:</strong></div>
-    </br>
     <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Tech Stack">
+     </br>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
     <div style="width: 80px;"><strong>Database:</strong></div>
-    </br>
     <img src="https://skillicons.dev/icons?i=mysql" alt="Database Tech Stack">
+     </br>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
     <div style="width: 80px;"><strong>Tools:</strong></div>
-    </br>
     <img src="https://skillicons.dev/icons?i=figma,linux,git" alt="Tools Tech Stack">
+     </br>
 </div>
 
