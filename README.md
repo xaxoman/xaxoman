@@ -25,7 +25,7 @@ I'm a versatile developer from Italy, passionate about leveraging technology to 
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <div style="width: 80px;"><h3>Tool:</h3></div>
+    <div style="width: 80px;"><h3>Tools</h3></div>
     <img src="https://skillicons.dev/icons?i=figma,linux,git" alt="Tools Tech Stack">
      <br>
 </div>
