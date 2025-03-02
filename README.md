@@ -1,6 +1,6 @@
 # Hi there, I'm Denis Xhafaj 👋
 
-![Header Banner](https://img.shields.io/badge/Hi%20there%2C%20I'm-Denis%20Xhafaj-blue?style=for-the-badge&logo=github)
+![Header Banner](https://img.shields.io/badge/xaxoman-blue?style=for-the-badge&logo=github)
 
 ## 👨‍💻 About Me
 
@@ -10,14 +10,11 @@ I'm a versatile developer from Italy, passionate about leveraging technology to 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Personal Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
+[![Personal Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://albaniancoder.pages.dev)
 
 
 
 ## 💻 Tech Stack
-
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,figma,linux,git)](https://skillicons.dev)
 
 ### Frontend: ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react)
 ### Backend: ![Tech Stack](https://skillicons.dev/icons?i=nodejs,express)
