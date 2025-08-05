@@ -20,7 +20,7 @@ I'm a versatile developer from Italy, passionate about leveraging technology to 
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
     <div style="width: 80px;"><h3>Database</h3></div>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="Database Tech Stack">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="Database Tech Stack">
      <br>
 </div>
 
