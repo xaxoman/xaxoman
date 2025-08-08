@@ -8,7 +8,7 @@ I'm a versatile developer from Italy, passionate about leveraging technology to 
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
     <div style="width: 80px;"><h3>Frontend</h3></div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular" alt="Frontend Tech Stack">
+    <img src="https://skillicons.dev/icons?i=html,css,ts,angular" alt="Frontend Tech Stack">
      <br>
 </div>
 
